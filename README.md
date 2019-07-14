@@ -5,7 +5,7 @@ It scans your code for bugs.
 Currently there is only one kind of bug that is looked
 for: mutable default arguments in function definitions.
 
-This is my first attempt at static analysis, 
+This is my first attempt at static analysis, so don't expect much for now.
 
 ## Install
 
